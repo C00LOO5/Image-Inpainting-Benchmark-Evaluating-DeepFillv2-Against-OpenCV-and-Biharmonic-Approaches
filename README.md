@@ -2,7 +2,7 @@
 
 A comparative study of image inpainting algorithms using traditional OpenCV methods, biharmonic models, and advanced deep learning with DeepFillv2. This interactive tool allows users to upload or capture images, mask regions to be inpainted, and evaluate the results across multiple algorithms.
 
-![demo](https://user-images.githubusercontent.com/arch.png)
+![architecture](1.png)
 
 ---
 
