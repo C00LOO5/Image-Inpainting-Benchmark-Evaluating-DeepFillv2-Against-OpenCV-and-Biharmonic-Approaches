@@ -34,8 +34,7 @@ A comparative study of image inpainting algorithms using traditional OpenCV meth
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/C00LOO5/image-inpainting-deepfillv2
-cd image-inpainting-deepfillv2
+gh repo clone C00LOO5/Image-Inpainting-Benchmark-Evaluating-DeepFillv2-Against-OpenCV-and-Biharmonic-Approaches
 ```
 
 ### 2. Set Up Environment
