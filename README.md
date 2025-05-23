@@ -71,14 +71,6 @@ From `Paramerters for Inpainting Evaluation.txt`:
 
 ---
 
-## Example Outputs
-
-| Input | Mask | TELEA | NS | DeepFillv2 |
-|-------|------|-------|----|------------|
-| ![](example1.png) | ![](mask1.png) | ![](telea.png) | ![](ns.png) | ![](deepfillv2.png) |
-
----
-
 ## File Structure
 
 ```bash
